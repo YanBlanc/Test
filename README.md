@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá, Eu me chamo Yan Matheus!
+<h2> Olá, meu nome é Yan Matheus!
 </div>
 
 ### Sobre mim:
